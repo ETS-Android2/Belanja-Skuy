@@ -12,8 +12,6 @@ import java.lang.String;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.smartkartapp.R;
-
 public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ImageViewHolder> {
     private int[] images;
     private String[] details;

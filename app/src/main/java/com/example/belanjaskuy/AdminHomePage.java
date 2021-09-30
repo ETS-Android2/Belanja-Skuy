@@ -8,8 +8,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.example.smartkartapp.R;
-
 public class AdminHomePage extends AppCompatActivity {
 Button addStaff,addStock;
     @Override

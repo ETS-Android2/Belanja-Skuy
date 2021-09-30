@@ -7,8 +7,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.example.smartkartapp.R;
-
 public class WomensClothing extends AppCompatActivity {
 
     private RecyclerView recyclerView;

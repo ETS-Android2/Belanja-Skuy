@@ -7,8 +7,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.example.smartkartapp.R;
-
 public class OtherItems extends AppCompatActivity {
     private RecyclerView recyclerView;
     int[] images={R.drawable.o1,R.drawable.o2,R.drawable.o3,R.drawable.o4,R.drawable.o5,R.drawable.o6,R.drawable.o7,R.drawable.o8};

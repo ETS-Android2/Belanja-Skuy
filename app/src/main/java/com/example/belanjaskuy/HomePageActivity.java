@@ -4,7 +4,6 @@ package com.example.belanjaskuy;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.example.smartkartapp.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 

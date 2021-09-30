@@ -12,7 +12,7 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 
-import com.example.smartkartapp.R;
+import com.example.belanjaskuy.R;
 
 public class ToolsFragment extends Fragment {
 

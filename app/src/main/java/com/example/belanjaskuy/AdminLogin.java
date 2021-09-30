@@ -10,8 +10,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.example.smartkartapp.R;
-
 public class AdminLogin extends AppCompatActivity {
     EditText admuser,admpass;
     Button admlog;

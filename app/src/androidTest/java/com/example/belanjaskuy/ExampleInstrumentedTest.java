@@ -1,4 +1,4 @@
-package com.example.smartkartapp;
+package com.example.belanjaskuy;
 
 import android.content.Context;
 

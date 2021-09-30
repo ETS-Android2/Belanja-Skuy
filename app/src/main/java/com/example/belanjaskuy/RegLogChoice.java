@@ -8,8 +8,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.example.smartkartapp.R;
-
 public class RegLogChoice extends AppCompatActivity {
     Button reg,log;
     TextView admlog,stflog,about;

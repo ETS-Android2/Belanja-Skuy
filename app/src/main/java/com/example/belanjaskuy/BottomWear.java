@@ -7,8 +7,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.example.smartkartapp.R;
-
 public class BottomWear extends AppCompatActivity {
     private RecyclerView recyclerView;
     int[] images={R.drawable.b1,R.drawable.b2,R.drawable.b3,R.drawable.b4};
