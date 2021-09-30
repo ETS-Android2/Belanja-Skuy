@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.smartkartapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.belanjaskuy.AddStock"></activity>
+        <activity android:name="com.example.belanjaskuy.Shoes" />
+        <activity android:name="com.example.belanjaskuy.BottomWear" />
+        <activity android:name="com.example.belanjaskuy.Formals" />
+        <activity android:name="com.example.belanjaskuy.tShirts" />
+        <activity android:name="com.example.belanjaskuy.DisplayItem" />
+        <activity android:name="com.example.belanjaskuy.WomensClothing" />
+        <activity android:name="com.example.belanjaskuy.MensClothing" />
+        <activity android:name="com.example.belanjaskuy.OtherItems" />
+        <activity android:name="com.example.belanjaskuy.Books" />
+        <activity android:name="com.example.belanjaskuy.Electronics" />
+        <activity android:name="com.example.belanjaskuy.Clothing" />
+        <activity android:name="com.example.belanjaskuy.CurrentOrderStatus" />
+        <activity android:name="com.example.belanjaskuy.AcceptOrders" />
+        <activity android:name="com.example.belanjaskuy.AddStaff" />
+        <activity android:name="com.example.belanjaskuy.PlaceOrder" />
+        <activity android:name="com.example.belanjaskuy.StaffLogin" />
+        <activity android:name="com.example.belanjaskuy.StaffHomePage" />
+        <activity android:name="com.example.belanjaskuy.AdminHomePage" />
+        <activity android:name="com.example.belanjaskuy.AdminLogin" />
+        <activity
+            android:name="com.example.belanjaskuy.HomePageActivity"
+            android:label="@string/title_activity_home_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.belanjaskuy.RegisterPage" />
+        <activity android:name="com.example.belanjaskuy.LoginPage" />
+        <activity android:name="com.example.belanjaskuy.RegLogChoice" />
+        <activity android:name="com.example.belanjaskuy.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
